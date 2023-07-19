@@ -1,0 +1,26 @@
+_repo: A-lady-and-her-husband_71152
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reeves, Amber
+    gutenberg_agent_id: '56094'
+    url: http://www.gutenberg.org/2009/agents/56094
+description: ''
+gutenberg_issued: '2023-07-08'
+identifiers:
+  gutenberg: '71152'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100864016
+pgterms:marc905: 20230627060053amberreeve
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library)
+publication_note: '  $aUnited States :$bG. P. Putnam''s sons, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A lady and her husband
+url: http://www.gutenberg.org/ebooks/71152
