@@ -1,11 +1,16 @@
 _repo: A-lady-and-her-husband_71152
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71152-h/images/cover.jpg
 creator:
   author:
     agent_name: Reeves, Amber
     gutenberg_agent_id: '56094'
     url: http://www.gutenberg.org/2009/agents/56094
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71152#A-lady-and-her-husband
 gutenberg_issued: '2023-07-08'
 identifiers:
   gutenberg: '71152'
